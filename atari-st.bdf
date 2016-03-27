@@ -1,12 +1,5 @@
 STARTFONT 2.1
-COMMENT
-COMMENT  This font is copyrighted by its author, who reserves all rights under
-COMMENT  national and international copyright laws.
-COMMENT
-COMMENT  Produced with bdfedit, a tcl/tk font editing program
-COMMENT    written by Thomas A. Fine
-COMMENT    Email to my last name at head.cfa.harvard.edu
-COMMENT    http://hea-www.harvard.edu/~fine/
+COMMENT All rights reversed
 FONT atari-st
 SIZE 9 72 72
 FONTBOUNDINGBOX 6 7 0 -1
@@ -19,7 +12,7 @@ SETWIDTH_NAME "Normal"
 SPACING "c"
 CHARSET_REGISTRY "ISO-8859"
 CHARSET_ENCODING "1"
-COPYRIGHT "Public domain font"
+COPYRIGHT "Public domain"
 FONT_ASCENT  6
 FONT_DESCENT 1
 ENDPROPERTIES
