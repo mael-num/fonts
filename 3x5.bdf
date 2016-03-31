@@ -1,4 +1,12 @@
 STARTFONT 2.1
+COMMENT
+COMMENT  This font is copyrighted by its author, who reserves all rights under
+COMMENT  national and international copyright laws.
+COMMENT
+COMMENT  Produced with bdfedit, a tcl/tk font editing program
+COMMENT    written by Thomas A. Fine
+COMMENT    Email to my last name at head.cfa.harvard.edu
+COMMENT    http://hea-www.harvard.edu/~fine/
 FONT 3x5
 SIZE 6 72 72
 FONTBOUNDINGBOX 4 6 0 -1
@@ -181,12 +189,12 @@ STARTCHAR C016
 ENCODING 14
 SWIDTH 666 0
 DWIDTH 4 0
-BBX 3 4 1 1
+BBX 2 4 2 1
 BITMAP
 80
 80
 80
-e0
+c0
 ENDCHAR
 STARTCHAR C017
 ENCODING 15
