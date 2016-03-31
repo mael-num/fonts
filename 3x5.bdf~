@@ -1,5 +1,13 @@
 STARTFONT 2.1
-FONT 3x5
+COMMENT
+COMMENT  This font is copyrighted by its author, who reserves all rights under
+COMMENT  national and international copyright laws.
+COMMENT
+COMMENT  Produced with bdfedit, a tcl/tk font editing program
+COMMENT    written by Thomas A. Fine
+COMMENT    Email to my last name at head.cfa.harvard.edu
+COMMENT    http://hea-www.harvard.edu/~fine/
+FONT UNTITLED
 SIZE 6 72 72
 FONTBOUNDINGBOX 4 6 0 -1
 STARTPROPERTIES 11
@@ -11,7 +19,7 @@ SETWIDTH_NAME "Normal"
 SPACING "c"
 CHARSET_REGISTRY "ISO-8859"
 CHARSET_ENCODING "1"
-COPYRIGHT "Public domain font"
+COPYRIGHT "Designer of this font retains full rights under the law"
 FONT_ASCENT  5
 FONT_DESCENT 1
 ENDPROPERTIES
