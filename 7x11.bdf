@@ -1,13 +1,6 @@
 STARTFONT 2.1
-COMMENT
-COMMENT  This font is copyrighted by its author, who reserves all rights under
-COMMENT  national and international copyright laws.
-COMMENT
-COMMENT  Produced with bdfedit, a tcl/tk font editing program
-COMMENT    written by Thomas A. Fine
-COMMENT    Email to my last name at head.cfa.harvard.edu
-COMMENT    http://hea-www.harvard.edu/~fine/
-FONT UNTITLED
+COMMENT All rights reversed
+FONT 7x11
 SIZE 12 72 72
 FONTBOUNDINGBOX 8 14 0 -1
 STARTPROPERTIES 11
@@ -19,11 +12,11 @@ SETWIDTH_NAME "Normal"
 SPACING "c"
 CHARSET_REGISTRY "ISO-8859"
 CHARSET_ENCODING "1"
-COPYRIGHT "Designer of this font retains full rights under the law"
+COPYRIGHT "Public domain font"
 FONT_ASCENT  13
 FONT_DESCENT 1
 ENDPROPERTIES
-CHARS 78
+CHARS 80
 STARTCHAR C040
 ENCODING 32
 SWIDTH 666 0
@@ -132,14 +125,14 @@ BITMAP
 82
 82
 82
-44
-48
-30
-20
-52
-8c
-8c
-72
+84
+80
+46
+62
+94
+88
+94
+62
 ENDCHAR
 STARTCHAR C047
 ENCODING 39
@@ -1436,5 +1429,36 @@ b8
 44
 44
 ee
+ENDCHAR
+STARTCHAR C157
+ENCODING 111
+SWIDTH 666 0
+DWIDTH 8 0
+BBX 7 8 0 0
+BITMAP
+38
+44
+82
+82
+82
+82
+44
+38
+ENDCHAR
+STARTCHAR C160
+ENCODING 112
+SWIDTH 666 0
+DWIDTH 8 0
+BBX 7 9 0 -1
+BITMAP
+f8
+84
+82
+82
+82
+84
+f8
+80
+80
 ENDCHAR
 ENDFONT
